@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Igniting the fire
 # All dates must be YYYY-MM-DD format!
-date: 2015-08-26
+date: 2022-01-19
 labels:
   - Software Engineering
   - Learning
