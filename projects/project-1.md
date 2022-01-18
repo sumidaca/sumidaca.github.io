@@ -9,36 +9,10 @@ date: 2020-12-03
 labels:
   - C
   - C++
-summary: A bank record program I developed for ICS 212.
+summary: A program to modify a bank record database developed for ICS 212.
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
-</div>
 
-The bank record database is a program that allows a user to modify a database of  prompts the the user to choose a option from a list 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+The bank record database is a program that allows a user to modify a database of people's information. The program includes a user interface that prompts the the user to choose a option from a list. The options the user can choose are to add a record, remove a record, find a record, print all the records, and quit the program. The user picks an option by typing their choice into the command line. The program is designed so that only the options available can be chosen. For example, typing "bank" or "123" will prompt the user to choose a valid option, and takes them back to the menu. This is also true for any prompt that requires a number, rejecting any inputs starting with a string and asking the user again. The program is also able to take a shorted version of the choices as valid inputs, which means that typing "a" will be the same as typing "add". The information that is stored in the database include an account number, a name, and an address. The program saves the database to a file after the user selects the quit options, and loads the file if it's in the same directory when the program starts.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
-
-Here is some code that illustrates how we read values from the line sensors:
-
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
-
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
-
-
-
+This project was programmed entirely by me, and was originally programmed in C and converted to C++ at a later date. This allowed me to experience the difference between the two programs by letting me learn which functions were in both languages and which functions needed to be changed during the transition to C++, like the different ways to catch invalid user inputs. The project also allowed me to practice C and C++ skills I learned prior to the project, such as making a user interface on the command line and reading/writing files. The project involved a makefile for both versions, letting me practice compiler commands. There were two makefiles for each version; a normal version and a debug version. The debug version lists the functions in the output as they are used, as well as any input variables used in those functions. This taught me how to run two versions of a single program.
