@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/micromouse.jpg
 title: Bank Record Database
-permalink: projects/micromouse
+permalink: projects/bankrecorddatabase
 # All dates must be YYYY-MM-DD format!
 date: 2020-12-03
 labels:
