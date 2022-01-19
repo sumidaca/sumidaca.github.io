@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/sudoku1.png
+image: images/Sudoku1.png
 title: Hexidecimal Sudoku Solver
 permalink: projects/hexidecimal-sudoku-solver
 # All dates must be YYYY-MM-DD format!
@@ -11,8 +11,8 @@ labels:
 summary: A program designed to solve a hexidecimal sudoku puzzle developed for ICS211.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/sudoku1.png">
-<img class="ui medium right floated rounded image" src="../images/sudoku2.png">
+<img class="ui medium right floated rounded image" src="../images/Sudoku1.png">
+<img class="ui medium right floated rounded image" src="../images/Sudoku2.png">
 
 The hexidecimal sudoku solver is a program
 
