@@ -11,7 +11,7 @@ labels:
 ---
 
 
-##Another One For the Record
+<H2>Another One For the Record
 
 When I first decided I wanted to learn how to code, I never imagined that there were so many different coding languages. I always assumed that coding would be straightforward to learn, maybe with a few different types of code. Several years of classes later, I've learned Python, Java, C, C++, and now Javascript. I'll admit that a few weeks before writing this, I didn't know that Java and Javascript were two different languages. I assumed that Java and Javascript were one and the same, and that by learning one I would learn the other. But as I've come to realize, I should never assume that things will go the way I expect them to. After all, for someone who thought they would learn one or two coding languages at most, I'm starting to learn a fifth language.
 
