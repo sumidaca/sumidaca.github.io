@@ -10,10 +10,11 @@ labels:
   - Java
 summary: A program designed to solve a hexadecimal sudoku puzzle developed for ICS211.
 ---
-
-<img class="ui image" src="../images/Sudoku1.png">
-<img class="ui image" src="../images/Sudoku2.png">
-
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/Sudoku1.png">
+  <img class="ui image" src="../images/Sudoku2.png">
+</div>
+  
 ## What is Sudoku?
 
 Sudoku is a puzzle where you're given a grid of squares and need to fill out all the squares with numbers so that no row, column, or big box has the same number twice. A traditional sudoku is 9x9 with 9 3x3 boxes, but this project uses a 16x16 square with 16 4x4 boxes instead. To simplify the output of the program, the count starts at 0 and 10-15 have been replaced with A-F. 
