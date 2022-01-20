@@ -24,3 +24,5 @@ The hexadecimal sudoku solver is a program that was designed to solve a hexadeci
 
 ## What Did I Do and What Did I Learn?
 Most of the code was provided by the teacher. The sections of the code I was responsible for was the solveSudoku method and the legalValues method. I also added a remove method to assist with the backtracking, and I added three tests to the test program to check a few cases not addressed by the original version of the test. The project allowed me to improve on my Java skills, as well as improve my understanding of recursion. It also gave me a chance to think about how I test programs, requiring me to think of test cases that weren't included with the code.
+
+[Here is a link to a GitHub Repository containing the source code for this project, including the code and the test program.](https://github.com/sumidaca/Sudoku-Solver)
