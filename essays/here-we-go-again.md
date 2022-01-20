@@ -11,8 +11,9 @@ labels:
 ---
 
 
-## Is there such thing as a stupid question?
+## What Do I Want to Do?
 
+Sometimes when you learn something new, you find that you can't think about anything else. New shows, new games, new hobbies, you just find yourself think about it constantly. Eventually you might stop actively thinking about it, but sometimes it makes such an impact that you still find yourself wanting more. Ever since I was a kid, I was always facinated by how things are made. I always thought the ability to create something new 
 I’ve had instructors address a whole class and say, “There’s no such thing as a stupid question.” I now know that is in fact not true because I’ve challenged the statement and received the appropriate dumb-stricken, annoyed look. There are definitely stupid questions, and along with that, usually unhelpful answers. Though we all might be guilty of being callous and making people victim to our poorly formed questions, there are steps we can take to ask smarter questions that hopefully don’t illicit the dreaded “rtfm” or “stfw” response.
 
 ## What’s a smart question?
