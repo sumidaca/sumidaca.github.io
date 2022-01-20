@@ -11,8 +11,8 @@ labels:
 summary: A program designed to solve a hexadecimal sudoku puzzle developed for ICS211.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/Sudoku1.png">
-<img class="ui medium right floated rounded image" src="../images/Sudoku2.png">
+<img class="ui image" src="../images/Sudoku1.png">
+<img class="ui image" src="../images/Sudoku2.png">
 
 ## What is Sudoku?
 
