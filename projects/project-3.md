@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
+image: images/
 title: STEM Introduction Video
-permalink: projects/cotton
+permalink: projects/stem-indroduction-video
 # All dates must be YYYY-MM-DD format!
 date: 2014-04-12
 labels:
@@ -14,48 +14,14 @@ summary: A video promoting STEM class I produced in high school.
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+## What This Project Is
 
-To give you a flavor of the game, here is an excerpt from one run:
+During high school, one of my classes had an assignment to film a promotional video for a class to air on the morning anouncments to give students ideas on what classes to sign up for. My choice was to film the STEM class I was in, since I thought that more people would find it interesting if they knew what it was like. The promotional video gave students a glimpse of what we did in the class, while listening to the words of STEM students and their teacher.
 
-<hr>
+## What I Did
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
+This project was done with one of my classmates. Since he wasn't taking that class, I was the one in charge of organizing the shoot. I wrote the storyboard for the video, I came up with interview questions to ask people in the class, I gave the interviews to the participents, and I gave some assistance with the editing, mostly giving advice on a few sections. Since I was the one taking the class, I also had to make sure we had permission to film the class.
 
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
+## What I learned
 
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
-
+While I didn't have a lot to do with the filming of the video, I was involved with a lot of it's production. This gave me a chance to learn some skills I wouldn't normally use. My usual projects don't usually involve interviews, so I got to learn the process of giving an interview. Additionally, I had to plan out everything in advance. The video had to be filmed during my digital media class, so I had to ask my STEM teacher ahead of time if I could come in during a different class and coordinate a time when I wouldn't be inturrupting it but still get to see them working. This allowed me to work on my organizational skills. I also let me think about how to inform people who may or may not be interested in a subject.
