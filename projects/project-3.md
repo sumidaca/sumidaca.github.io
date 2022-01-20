@@ -1,11 +1,11 @@
 ---
 layout: project
 type: project
-image: images/
+image: images/STEMVideo3.png
 title: STEM Introduction Video
 permalink: projects/stem-indroduction-video
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2016-11-21
 labels:
   - STEM
   - Video
