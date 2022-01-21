@@ -71,21 +71,20 @@
   ],
   "education": [
     {
-      "institution": "Honolulu Community College, Honolulu, HI",
-      "area": "Liberal Arts",
-      "studyType": "B.S.",
-      "startDate": "2017-08-21",
-      "endDate": "2019-12-20",
-    },
-    {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2023)",
       "studyType": "B.S.",
       "startDate": "2020-01-13",
       "endDate": "Present",
+    },
+    {
+      "institution": "Honolulu Community College, Honolulu, HI",
+      "area": "Liberal Arts",
+      "studyType": "B.S.",
+      "startDate": "2017-08-21",
+      "endDate": "2019-12-20",
     }
   ],
-
   "references": [
     {
       "name": "Available upon request",
