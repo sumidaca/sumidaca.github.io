@@ -19,7 +19,7 @@ When most people talk about coding, they mostly focus on the function of the cod
 Personally, until recently I haven't actively thought about following coding standards. It's not that I didn't think it would be important. On the contrary, I've heard many times that it would be important in the future, especially if I needed someone else to read my code, or even myself. The actual reason I haven't thought about it is because I already try to keep my code consistent. I realize that sounds like I am thinking about coding standards, but to me it's not quite the same. I suppose that I am unconsciously thinking of coding standards, but instead of one that many people follow it's one that I decided for myself from my experiences of coding. Some of it is from looking at other pieces of code, and other parts of it are from trying to reread my code. It's gotten to the point where I try to write each type of statement the same way every time if I can. Since I usually write everything the same way, I don't usually consider how to improve the readability of my code or how it looks compared to others.
 
 ## How Hard Can It Be?
-<div class="ui medium rounded images">
+<div class="ui large rounded images">
   <img class="ui image" src="../images/Standard2.png">
   <img class="ui image" src="../images/Standard3.png">
 </div>
