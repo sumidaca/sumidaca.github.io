@@ -18,11 +18,11 @@ In my experience, when people talk about programming, they often confuse HTML an
 
 Luckily, there is another way to style a page. We can use a framework to style a webpage a bit simpler. Semantic UI has several classes that can be added directly to the HTML that modifies the element they are attached to based on the class specified. These classes can do things from resize elements to create entire menus. Technically you could do all these things with just HTML and CSS, however using Semantic UI makes it simpler. For example, let's walk through making a menu. You could use CSS to accomplish this task, where you could manually set margins, make all the items a list and disable the bullet points, and change the display property to display everything on the same line if you're making a horizontal menu. If you decide to use Semantic UI instead, you can create a div element that has the class "ui menu", then create the menu items in that div and you should have a menu. It's also easy to add more advanced features, such as a dropdown menu. All it needs is the HTML, the dropdown class, and if you don't use the simple class a little JavaScript. With Semantic UI, you could even create a page that looks like that of an actual business, although it obviously takes more work to make it functional.
 
-An example of a recreation of a website. The original is on the left and the recreation is on the right.
 <div class="ui large images">
   <img class="ui image" src="../images/Original1.png">
   <img class="ui image" src="../images/Recreation1.png">
 </div>
+An example of a recreation of a website. The original is on the top and the recreation is on the bottom.
 
 ## Do We Still Need CSS?
 
@@ -37,4 +37,4 @@ With all those issues we ran into, we now need to consider one thing: Is it wort
   <img class="ui image" src="../images/withcss1.png">
   <img class="ui image" src="../images/withcss2.png">
 </div>
-
+The top image was made with Semantic UI, while the bottom page was built with CSS. Note how the columns in the CSS site aren't aligned properly when zoomed out.
