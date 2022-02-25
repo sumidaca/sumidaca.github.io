@@ -19,7 +19,7 @@ In my experience, when people talk about programming, they often confuse HTML an
 Luckily, there is another way to style a page. We can use a framework to style a webpage a bit simpler. Semantic UI has several classes that can be added directly to the HTML that modifies the element they are attached to based on the class specified. These classes can do things from resize elements to create entire menus. Technically you could do all these things with just HTML and CSS, however using Semantic UI makes it simpler. For example, let's walk through making a menu. You could use CSS to accomplish this task, where you could manually set margins, make all the items a list and disable the bullet points, and change the display property to display everything on the same line if you're making a horizontal menu. If you decide to use Semantic UI instead, you can create a div element that has the class "ui menu", then create the menu items in that div and you should have a menu. It's also easy to add more advanced features, such as a dropdown menu. All it needs is the HTML, the dropdown class, and if you don't use the simple class a little JavaScript. With Semantic UI, you could even create a page that looks like that of an actual business, although it obviously takes more work to make it functional.
 
 An example of a recreation of a website. The original is on the left and the recreation is on the right.
-<div class="ui small images">
+<div class="ui large images">
   <img class="ui image" src="../images/Original1.png">
   <img class="ui image" src="../images/Recreation1.png">
 </div>
@@ -32,7 +32,7 @@ All that being said, there are still things that are difficult even with Semanti
 
 With all those issues we ran into, we now need to consider one thing: Is it worth learning Semantic UI despite of all the issues. The answer may vary for different people, but I believe that the positives outweigh the negatives. As I've stated before, it's not a good idea to stop using CSS completely, but it's also not a good idea to rely on it completely. Semantic UI has its limitations in what it can do, to the point that the example above uses a decently sized stylesheet. But that stylesheet combined with Semantic is still preferable to having an even longer stylesheet that might have taken even longer to create. And the issue with the order of styles is easy to get around if you know what you're doing. I personally find the using Semantic UI makes it easier overall to make nicer looking webpages, and I recommend that people at least try it for a bit. Just look at the difference between a page built with Semantic UI and a page built with just CSS. 
 
-<div class="ui small images">
+<div class="ui large images">
   <img class="ui image" src="../images/withsemantic.png">
   <img class="ui image" src="../images/withcss1.png">
   <img class="ui image" src="../images/withcss2.png">
