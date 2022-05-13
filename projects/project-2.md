@@ -9,6 +9,7 @@ date: 2020-03-27
 labels:
   - Java
 summary: A program designed to solve a hexadecimal sudoku puzzle developed for ICS211.
+published: false
 ---
 <div class="ui small rounded images">
   <img class="ui image" src="../images/Sudoku1.png">
