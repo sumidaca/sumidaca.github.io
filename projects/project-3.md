@@ -10,6 +10,7 @@ labels:
   - STEM
   - Video
 summary: A video promoting STEM class I produced in high school.
+published: false
 ---
 
 <div class="ui small rounded images">
