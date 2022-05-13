@@ -25,7 +25,7 @@ The Manoa Organization Database, or MOD, is a web application that serves as a d
 
 The main areas I focused on were the pages with club officer functionality. This included making two versions of a club page, one for regular users and another for club officers, adding the edit club page, implementing a mongo collection that keeps track of club officers, and modifying the profile page to add a section for clubs the user has club officer status for. Additionally, I implemented two collections, one for keeping track of which interests a club has and one to keep track of when a club adds a new interest, and I added a section to the user profile that notifies a user when a club adds an interest that matches an interest on their profile.
 
-<div class="ui small rounded images">
+<div class="ui medium rounded images">
   <img class="ui image" src="../images/club-page.png">
   <img class="ui image" src="../images/mockup-club.png">
   <img class="ui image" src="../images/edit-club-page.png">
