@@ -51,9 +51,11 @@
       "keywords": [
         "C",
         "C++",
+        "C#",
         "Java",
         "Javascript",
         "Python",
+        "Semantic UI"
       ]
     },
     {
@@ -65,7 +67,9 @@
         "Linux",
         "Git/GitHub",
         "g++",
-        "Eclipse"
+        "Eclipse",
+        "IntelliJ IDEA",
+        "Unity"
       ]
     }
   ],
