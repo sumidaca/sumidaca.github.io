@@ -10,6 +10,8 @@ labels:
   - Learning
 ---
 
+<img class="ui image" src="../images/javascript-1.png">
+<img class="ui image" src="../images/javascript-2.png">
 
 ## Another One For the Record
 
@@ -25,6 +27,4 @@ While the similarity between old and new are throwing me off a little, the thing
 
 ## Learning Under Pressure
 
-Another thing that separates this experience from others is that I'm practicing athletic software engineering at the same time. I normally take my time with coding, so having to solve coding problems under a time limit is an adjustment for me. My experience so far has been fairly easy, which is suprising. An issue I try to work on is overcomplicating problems. Sometimes I see what I think is a problem and create this overly complicated solution for it, only to realize that the issue either didn't exist or had a very easy solution. While it did happen once already, for the most part I've been able to work efficiently. That's not to say that it won't happen again, but doing these problems and managing my time helps me keep things simple. I think continuing like this will be beneficial to my learning, and I expect these problems to help me become a more confident and efficient programmer. Then again, my expectations aren't always accurate, so we'll see how everything plays out.
-
-
+Another thing that separates this experience from others is that I'm practicing athletic software engineering at the same time. I normally take my time with coding, so having to solve coding problems under a time limit is an adjustment for me. My experience so far has been fairly easy, which is surprising. An issue I try to work on is overcomplicating problems. Sometimes I see what I think is a problem and create this overly complicated solution for it, only to realize that the issue either didn't exist or had a very easy solution. While it did happen once already, for the most part I've been able to work efficiently. That's not to say that it won't happen again, but doing these problems and managing my time helps me keep things simple. I think continuing like this will be beneficial to my learning, and I expect these problems to help me become a more confident and efficient programmer. Then again, my expectations aren't always accurate, so we'll see how everything plays out.

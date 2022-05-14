@@ -9,6 +9,7 @@ labels:
   - Learning
 ---
 
+<img class="ui image" src="../images/coding-example.jpg">
 
 ## What Do I Want to Do?
 

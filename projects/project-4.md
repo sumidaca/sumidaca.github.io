@@ -10,14 +10,14 @@ labels:
   - Semantic UI React
   - Meteor
   - MongoDB
-  - Github
+  - GitHub
   - Javascript
 summary: A database for the clubs associated with the University of Hawaii at Manoa.
 ---
 
 <img class="ui image" src="../images/landing.png">
 
-## What Is The Manoa Organization Database?
+## What Is the Manoa Organization Database?
 
 The Manoa Organization Database, or MOD, is a web application that serves as a database for the various clubs associated with UH Manoa developed for a group project in ICS 314. The app allows UH students to register for an account, scroll through a list of clubs to join, with descriptions and contact info for club officers should they be interested, and if they are a club officer they can edit the club page for any clubs that the are registered as a club officer for.
 
@@ -36,6 +36,6 @@ Additionally, I also wrote some sections of the project webpage, such as the wal
 
 ## What Skills Did I Develop?
 
-This project focused on a number of skills I either recently learned or don't use very often. The main thing I got from this project is working with a team to develop a project. Needing to communicate on who's doing what, deadlines, and any issues members run into was a learning experience, since I'm more used to working at my own pace and not needing to worry about if someone has already started on an issue, explaining what part I'm working on, or if I'm working at a reasonable pace compared to the rest of the team. This project has also allowed my to get experience with Meteor, MongoDB, and Github. Working on making and deploying apps was very interesting, and learning how to manipulate databases was a fun challenge.
+This project focused on a number of skills I either recently learned or don't use very often. The main thing I got from this project is working with a team to develop a project. Needing to communicate on who's doing what, deadlines, and any issues members run into was a learning experience, since I'm more used to working at my own pace and not needing to worry about if someone has already started on an issue, explaining what part I'm working on, or if I'm working at a reasonable pace compared to the rest of the team. This project has also allowed my to get experience with Meteor, MongoDB, and GitHub. Working on making and deploying apps was very interesting, and learning how to manipulate databases was a fun challenge.
 
 The project page can be found [here](https://manoa-organization-database.github.io/), the project repository can be found [here](https://github.com/manoa-organization-database/manoa-organization-database), and the app itself can be found [here](https://manoa-organization-database.xyz/).
